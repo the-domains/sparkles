@@ -1,0 +1,14 @@
+layout_spectrum: 0.9623656
+color:
+  saturation: 0.7150537
+  brandStrength: 1
+  lightness: 0.6039426
+  brandColors:
+    - '#020204'
+    - '#FFFFFF'
+    - '#05549A'
+    - '#B45B6E'
+    - '#FCC677'
+  rhythmicContrast: 0.8130227
+typography_spectrum: 0.8213859
+name: Sparkles
